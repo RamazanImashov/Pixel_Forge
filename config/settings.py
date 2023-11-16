@@ -35,6 +35,7 @@ INSTALLED_APPS = [
     # apps
     "account",
     "apps.rates",
+    "apps.feedback",
 ]
 
 MIDDLEWARE = [
