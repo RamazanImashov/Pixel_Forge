@@ -36,6 +36,7 @@ INSTALLED_APPS = [
     "account",
     "apps.rates",
     "apps.feedback",
+    'apps.projects',
 ]
 
 MIDDLEWARE = [
